@@ -1,3 +1,5 @@
+export const runtime = "edge";
+
 import localFont from "next/font/local";
 import "./globals.css";
 
