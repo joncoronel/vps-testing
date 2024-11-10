@@ -1,8 +1,5 @@
-export const runtime = "edge";
-
 import localFont from "next/font/local";
 import "./globals.css";
-import { OpenPanelComponent } from "@openpanel/nextjs";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
